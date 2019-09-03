@@ -5,6 +5,6 @@ We've moved to GitLab!
 
 Don't worry we still you love GitHub!
 
-This account is used as a proxy between GitLab and the wonderful open-source projects that GitHub graciously hosts.
+This account is primarily used as a mirror for GitLab and a proxy for open-source projects hosted on GitHub.
 
 Thank you GitHub!
