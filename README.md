@@ -3,8 +3,6 @@ https://gitlab.com/lesleslie
 
 We've moved to GitLab!
 
-Don't worry we still you love GitHub!
-
-This account is primarily used as a mirror for GitLab and a proxy for open-source projects hosted on GitHub.
+We still use this account for the open-source projects that we work on and as a mirror for our publicly available GitLab repositories.
 
 Thank you GitHub!
